@@ -1,0 +1,18 @@
+C:\Users\Ivan\source\repos\Bissexto\Bissexto\bin\Debug\Bissexto.exe.config
+C:\Users\Ivan\source\repos\Bissexto\Bissexto\bin\Debug\Bissexto.exe
+C:\Users\Ivan\source\repos\Bissexto\Bissexto\bin\Debug\Bissexto.pdb
+C:\Users\Ivan\source\repos\Bissexto\Bissexto\obj\Debug\Bissexto.csprojAssemblyReference.cache
+C:\Users\Ivan\source\repos\Bissexto\Bissexto\obj\Debug\Bissexto.Form1.resources
+C:\Users\Ivan\source\repos\Bissexto\Bissexto\obj\Debug\Bissexto.Properties.Resources.resources
+C:\Users\Ivan\source\repos\Bissexto\Bissexto\obj\Debug\Bissexto.csproj.GenerateResource.cache
+C:\Users\Ivan\source\repos\Bissexto\Bissexto\obj\Debug\Bissexto.exe
+C:\Users\Ivan\source\repos\Bissexto\Bissexto\obj\Debug\Bissexto.pdb
+C:\Users\Bruno Reis\Downloads\Bissexto\Bissexto\bin\Debug\Bissexto.exe.config
+C:\Users\Bruno Reis\Downloads\Bissexto\Bissexto\obj\Debug\Bissexto.exe
+C:\Users\Bruno Reis\Downloads\Bissexto\Bissexto\obj\Debug\Bissexto.pdb
+C:\Users\Bruno Reis\Downloads\Bissexto\Bissexto\bin\Debug\Bissexto.exe
+C:\Users\Bruno Reis\Downloads\Bissexto\Bissexto\bin\Debug\Bissexto.pdb
+C:\Users\Bruno Reis\Downloads\Bissexto\Bissexto\obj\Debug\Bissexto.csprojResolveAssemblyReference.cache
+C:\Users\Bruno Reis\Downloads\Bissexto\Bissexto\obj\Debug\Bissexto.Form1.resources
+C:\Users\Bruno Reis\Downloads\Bissexto\Bissexto\obj\Debug\Bissexto.Properties.Resources.resources
+C:\Users\Bruno Reis\Downloads\Bissexto\Bissexto\obj\Debug\Bissexto.csproj.GenerateResource.Cache
